@@ -1,14 +1,9 @@
 objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement,
-mov001,In My Life_Poster.jpg,,,In My Life,Olivia M. Lamasan,2009-09-16, 
-
-const x = `
-"MOVIE REVIEWS
-`
+mov001,In My Life_Poster.jpg,,,In My Life,Olivia M. Lamasan,2009-09-16, "MOVIE REVIEWS
 
 Jed and Vit, Reel Advice:
-`
 
-`""In My Life"" marks the return of Vilma Santos (aptly named the ""Star for All Seasons"") after a very long absence at the big screen. It also marks a rarity in Philippine cinema - starring two big league actors as gay lovers. With all the star power and all the hype, all seems well for ""In My Life"". But films can suffer a lot when people expect too much. Here's hoping that ""In My Life"" won't suffer the same fate that many films have taken. Read on if ""In My Life"" holds it weight in gold.
+""In My Life"" marks the return of Vilma Santos (aptly named the ""Star for All Seasons"") after a very long absence at the big screen. It also marks a rarity in Philippine cinema - starring two big league actors as gay lovers. With all the star power and all the hype, all seems well for ""In My Life"". But films can suffer a lot when people expect too much. Here's hoping that ""In My Life"" won't suffer the same fate that many films have taken. Read on if ""In My Life"" holds it weight in gold.
 
 Shirley (Vilma Santos) is a single mom and public school librarian. When her daughter Dang decides to leave her to go to Australia, she decides to go to New York to stay with her gay son, Mark (Luis Manzano) as a getaway from all her problems. There, she tries to start a new life with the help of Mark's lover, Noel (John Lloyd-Cruz) while also trying to rekindle her lost relationship with Mark. But just as things are getting better for her in America, she finds out that her son and Noel are keeping a dark secret from her.
 
